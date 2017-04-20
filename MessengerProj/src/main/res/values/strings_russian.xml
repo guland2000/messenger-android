@@ -287,6 +287,7 @@
     <!--plural-->
     <plurals name="Members">
         <item quantity="one">%d участник</item>
+        <item quantity="few">%d участников</item>
         <item quantity="other">%d участники</item>
     </plurals>
     <plurals name="Contacts">
