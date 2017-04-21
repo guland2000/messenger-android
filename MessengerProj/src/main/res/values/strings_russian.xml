@@ -292,22 +292,27 @@
     </plurals>
     <plurals name="Contacts">
         <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контаков</item>
         <item quantity="other">%d контакты</item>
     </plurals>
     <plurals name="MeAndMembers">
         <item quantity="one">Я и %d участник</item>
+        <item quantity="few">%d участников</item>
         <item quantity="other">Я и %d участник</item>
     </plurals>
     <plurals name="NewMessages">
         <item quantity="one">%d новое сообщение</item>
+        <item quantity="few">%d новых сообщений</item>
         <item quantity="other">%d новые сообщения</item>
     </plurals>
     <plurals name="messages">
         <item quantity="one">%d сообщение</item>
+        <item quantity="few">%d сообщений</item>
         <item quantity="other">%d сообщения</item>
     </plurals>
     <plurals name="AreYouSureDeleteMessages">
         <item quantity="one">Удалить %d сообщение? Сообщение также будет удалено с сервера.</item>
+        <item quantity="few">Удалить %d сообщений? Сообщения также будут удалены с сервера.</item>
         <item quantity="other">Удалить %d сообщения? Сообщения также будут удалены с сервера.</item>
     </plurals>
     <plurals name="NewMessagesInChats">
@@ -315,30 +320,37 @@
         text "%d new messages", so the complete sentence would be e.g.
         "4 new messages in 2 chats". -->
         <item quantity="one">%1$s в %2$d чате</item>
+        <item quantity="few">%1$s в %2$d чатах</item>
         <item quantity="other">%1$s в %2$d чатах</item>
     </plurals>
     <plurals name="Chats">
         <item quantity="one">%d чат</item>
+        <item quantity="few">%d чатов</item>
         <item quantity="other">%d чатах</item>
     </plurals>
     <plurals name="Minutes">
         <item quantity="one">%d минута</item>
+        <item quantity="few">%d минут</item>
         <item quantity="other">%d минут</item>
     </plurals>
     <plurals name="Hours">
         <item quantity="one">%d час</item>
+        <item quantity="few">%d часов</item>
         <item quantity="other">%d часов</item>
     </plurals>
     <plurals name="Days">
         <item quantity="one">%d день</item>
+        <item quantity="few">%d дней</item>
         <item quantity="other">%d дней</item>
     </plurals>
     <plurals name="Weeks">
         <item quantity="one">%d неделя</item>
+        <item quantity="few">%d недель</item>
         <item quantity="other">%d недель</item>
     </plurals>
     <plurals name="Months">
         <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяцев</item>
         <item quantity="other">%d месяцев</item>
     </plurals>
     <plurals name="MaxNotifications">
@@ -346,6 +358,7 @@
         text "%d minutes", so the complete sentence would be e.g.
         "At most 8 notifications within 3 minutes". -->
         <item quantity="one">Не более %1$d сообщения в течении %2$s</item>
+        <item quantity="few">Не более %1$d сообщений в течении %2$s</item>
         <item quantity="other">Не более %1$d сообщений в течении %2$s</item>
     </plurals>
     <!--date formatters-->
